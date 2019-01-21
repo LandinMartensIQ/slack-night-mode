@@ -42,7 +42,7 @@
   .p-channel_sidebar__link--selected::before, .p-channel_sidebar__link--selected::after { color: #e6e6e6; }
   .p-channel_sidebar__badge, .p-channel_sidebar__banner--mentions { background: #bf360c; }
   .p-channel_sidebar .c-custom_scrollbar__thumb_vertical, .p-channel_sidebar .c-scrollbar__bar { background: #545454; }
-  .p-channel_sidebar__channel--unread:not(.p-channel_sidebar__channel--muted):not(.p-channel_sidebar__channel--selected) .p-channel_sidebar__name, .p-channel_sidebar__link--unread .p-channel_sidebar__name, .p-channel_sidebar__link--invites:not(.p-channel_sidebar__link--dim) .p-channel_sidebar__name, .p-channel_sidebar__section_heading_label--clickable:hover, .p-channel_sidebar__quickswitcher:hover { color: whitesmoke !important; }
+  .p-channel_sidebar__channel--unread:not(.p-channel_sidebar__channel--muted):not(.p-channel_sidebar__channel--selected) .p-channel_sidebar__name, .p-channel_sidebar__link--unread .p-channel_sidebar__name, .p-channel_sidebar__link--invites:not(.p-channel_sidebar__link--dim) .p-channel_sidebar__name, .p-channel_sidebar__section_heading_label--clickable:hover, .p-channel_sidebar__quickswitcher:hover { color: #a6b223 !important; }
   .p-channel_sidebar__close_container:hover { background: #000; }
   .p-channel_sidebar__jumper { background: transparent !important; }
   .channels_list_holder h2 { color: #e6e6e6 !important; }
